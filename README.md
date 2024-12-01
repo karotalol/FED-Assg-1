@@ -1,1 +1,2 @@
 # FED-Assg-1
+The website that I created is to promote a gym, FitLife Studio. It is a modern fitness website where it is designed to attract and inspire individuals to transform their lives through health and fitness. 
